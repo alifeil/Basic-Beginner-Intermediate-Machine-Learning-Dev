@@ -1,5 +1,5 @@
 # Submission Machine Learning Basic, Beginner & Intermediate - Indosat Ooredoo Digital Camp 2021 x Dicoding
-All 5 Star Score Submission (Basic & Intermediate)
+
 
 ![idcamp](https://user-images.githubusercontent.com/83399671/140648367-4b9545b7-b510-4a75-9288-b661e4d55073.png)
 
